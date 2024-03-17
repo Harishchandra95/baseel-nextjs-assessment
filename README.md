@@ -36,7 +36,8 @@ on Development in root folder:
 On productions 
 ```bash 
     npm run build 
-``
+```
+
 ```bash
     npm start 
 ```
@@ -45,3 +46,5 @@ Eslint
 ```bash 
     npm lint
 ```
+
+Live URL : https://baseel-nextjs-assessment-1gaj.vercel.app/
