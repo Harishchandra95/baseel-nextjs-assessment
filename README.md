@@ -27,17 +27,19 @@ Used:
 
 Before start the project run below the command 
 on Development in root folder:
-    - ```bash 
-        npm install 
-
-        npm run dev
-    ```
+```bash 
+    npm install 
+```
+```bash
+    npm run dev
+```
 On productions 
-    - ``` bash 
-        npm run build 
-
-        npm start 
-    ```
+```bash 
+    npm run build 
+``
+```bash
+    npm start 
+```
     
 Eslint
 ```bash 
